@@ -30,9 +30,9 @@ Aaron N. Josserand Austin
 
 To use this script, run the following command in your terminal:
 
-'''
+```
 ./ubuntu-docker-installer.sh
-'''
+```
 
 ## GitHub Repository
 
