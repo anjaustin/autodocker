@@ -30,7 +30,7 @@ Aaron N. Josserand Austin
 
 To use this script, run the following command in your terminal:
 
-```
+```bash
 ./ubuntu-docker-installer.sh
 ```
 
